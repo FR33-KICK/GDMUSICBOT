@@ -1,0 +1,7 @@
+{
+  "name": "GD MUSIC",
+  "description": "GwnDaan discord music bot",
+  "repository": "https://github.com/FR33-KICK/GDMUSICBOT.git",
+  "logo": "https://i.imgur.com/zkZ5VYY.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
